@@ -1,4 +1,4 @@
-This project was created by [me (Jenessa White)!](https://github.com/jenessawhite/) and is practice for creating a website with multiple pages, using react-router. One of the pages is a list of Best Buy stores with their information and a Google Map showing where they are located. It also includes a homepage, navigation bar, and an about page as well.
+This project was created by [me (Jenessa White)!](https://github.com/jenessawhite/) and is practice for creating a mobile app with react-native. The pages are a list of Best Buy products, and stores with their information and a Google Map showing where they are located. It also includes a homepage, navigation bar, and an about page as well.
 
 ## Sources
 
