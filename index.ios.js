@@ -23,8 +23,7 @@ export default class BestBuyNative extends Component {
           Is this still working??
         </Text>
         <Text style={styles.instructions}>
-          Press Cmd+R to reload,{'\n'}
-          Cmd+D or shake for dev menu
+          What's hot reloading?
         </Text>
       </View>
     );
