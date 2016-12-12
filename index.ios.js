@@ -141,4 +141,4 @@
 import { AppRegistry } from 'react-native';
 import routes from './app/routes';
 
-AppRegistry.registerComponent('Simple', () => () => routes);
+AppRegistry.registerComponent('BestBuyNative', () => () => routes); //The registered name must match your original name in order for the simulator to run the program
