@@ -8,7 +8,7 @@ This project was bootstrapped with [React Native](https://facebook.github.io/rea
 
 0. Clone this repo to your computer. (You'll need Xcode to be able to work on this)
 
-1. From the command line, run `react-native run ios` within this project.
+1. From the command line, run `react-native run-ios` within this project.
 
 2. Open a new tab in your terminal. Clone the [Best Buy API Playground](https://github.com/bestbuy/api-playground)
 
